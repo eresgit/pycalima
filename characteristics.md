@@ -121,7 +121,7 @@ Day of week |  |  Second
 ```
 The example above is Monday, 16:53:59.
 
-__TODO__: Is the day zero or one indexed?
+__TODO__: The day is one indexed (min:1, max:7)
 
 ### Silent hours
 ```
